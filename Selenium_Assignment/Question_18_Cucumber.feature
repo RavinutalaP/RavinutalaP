@@ -1,4 +1,4 @@
-Feature: Validating the OrangeHRP Application
+Feature Validating the OrangeHRP Application
 Background: Initialize the browser
 Given the user opens the browser
 Then the user runs the URL
