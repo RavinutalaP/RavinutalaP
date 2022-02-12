@@ -1,4 +1,4 @@
-package program2
+package program2;
 
 public class DuplicatesInArray {
 	 public static void main(String[] args) {      
