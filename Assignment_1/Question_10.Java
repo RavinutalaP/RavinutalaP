@@ -1,4 +1,4 @@
-package program1;
+ackage program1;
 
 public class Triangle {
 	public static void main(String args[])   
