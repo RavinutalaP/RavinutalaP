@@ -1,4 +1,4 @@
-package SeleniumAssignment;
+package SeleniumAssignment
 
 import org.testng.annotations.Test;
 import org.openqa.selenium.By;
