@@ -6,4 +6,4 @@
  P
  *
  */
-package program2
+package program2;
