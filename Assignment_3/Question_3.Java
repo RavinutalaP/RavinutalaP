@@ -1,4 +1,4 @@
-package program3;
+package program3
 
 public class Substring {
 	public static void main(String[] args) {
