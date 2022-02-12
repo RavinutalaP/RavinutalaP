@@ -1,4 +1,4 @@
-package SeleniumAssignment;
+package SeleniumAssignment
 import java.io.FileInputStream;
 import java.util.Properties;
 
