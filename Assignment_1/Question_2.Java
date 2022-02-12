@@ -1,4 +1,4 @@
-package program1;
+package program1
 
 public class FibonacciSeries{
 	public static void main(String args[])
