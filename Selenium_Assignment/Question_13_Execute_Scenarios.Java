@@ -1,4 +1,4 @@
-package SeleniumAssignment
+package SeleniumAssignment;
 import java.io.IOException;
 import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
