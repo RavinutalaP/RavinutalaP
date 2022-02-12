@@ -1,4 +1,4 @@
-package program3
+package program3;
 
 public class ThrowArithmaticException {
 	   public static void main(String args[])
