@@ -1,4 +1,4 @@
-package program4;
+package program4
 	import java.util.Enumeration;
 	import java.util.Hashtable;
 
